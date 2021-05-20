@@ -1,3 +1,14 @@
-header = heading
-nav = navigation list
-main = encaptulate the dominant content
+<header> = heading
+<nav> = navigation list
+<main> = encaptulate the dominant 
+<footer> = footer of page
+<section> = website’s home page could be split into sections for the introduction, news items, and contact information.
+<article> = articles, blogs, comments
+<aside> = Bibliographies
+	  Endnotes
+	  Comments
+	  Pull quotes
+	  Editorial sidebars
+	  Additional informatio
+<figure> = image, illustration
+<figcaption> = caption of figure
